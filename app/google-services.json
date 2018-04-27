@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1085384506299",
+    "firebase_url": "https://pasinduwerakoon-docs.firebaseio.com",
+    "project_id": "pasinduwerakoon-docs",
+    "storage_bucket": "pasinduwerakoon-docs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085384506299:android:e69f1eaf3dd1d7d7",
+        "android_client_info": {
+          "package_name": "com.application.common.alliontechnologies.androidlivestreamingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085384506299-ud5un7ml7ja6mdlk521c03u2gocr8l55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.application.common.alliontechnologies.androidlivestreamingapplication",
+            "certificate_hash": "9e5d315f84cf187608b2c39bc00738949da66aaa"
+          }
+        },
+        {
+          "client_id": "1085384506299-6j68jtrdfismrt90ufmb4mhkinqqktjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpqhjO9E113IfHOo2dn787vlHr9cYTOds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085384506299-6j68jtrdfismrt90ufmb4mhkinqqktjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
